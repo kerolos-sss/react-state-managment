@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": " TEST POST",
+      "content": "TEST CONTENT"
+    },
+    {
+      "title": "Second post",
+      "content": "Fm,if;gds",
+      "id": 2
+    },
+    {
+      "title": "Edited by server again",
+      "content": "Sadas",
+      "id": 3
+    }
+  ]
+}
